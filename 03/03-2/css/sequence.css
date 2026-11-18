@@ -1,0 +1,6 @@
+ul li:nth-of-type(even) {/*짝수 선택자*/
+    border: 2px solid red;
+}
+ul li:nth-of-type(odd) {/*홀수 선택자*/
+    border: 2px solid blue;
+}
