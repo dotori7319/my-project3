@@ -1,9 +1,12 @@
+html {
+    font-size: 16px;
+}
 article h1 {
-    font-size: 60px;
+    font-size: 3rem;
 }
 article p {
-    font-size: 30px;
+    font-size: 2rem;
 }
 article a {
-    font-size: 15px;
+    font-size: 1rem;
 }
